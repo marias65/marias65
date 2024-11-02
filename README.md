@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
+
+### About Me
+Hello! I am currently a Junior studying Computer Science at Iowa State University! I am also minoring in Cybersecurity and am looking for an internship this coming Summer 2025 :)
+
+### Languages and Tools
+Java, Python, JavaScript, HTML, CSS, Linux, LaTeX, PyTorch, Git, OOP, JSON, React, Express.js, MongoDB, Node.js, Matplotlib, Pandas, Numpy, Scikit-learn, PyTorch
+
+### Interests or Hobbies
+I really enjoy crocheting and watching anime in my free time!
 
 <!--
 **marias65/marias65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
