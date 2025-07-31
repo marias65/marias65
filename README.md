@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### About Me
-Hello! I am currently a Junior studying Computer Science at Iowa State University! I am also minoring in Cybersecurity and am looking for an internship this coming Summer 2025 :)
+Hello! I am currently a rising Senior studying Computer Science at Iowa State University! I just finished my minor in Cybersecurity, working on my minor in Anthropology, and am looking for an internship or a full time position this coming Summer 2026 :)
 
 ### Languages and Tools
 Java, Python, JavaScript, HTML, CSS, Linux, LaTeX, PyTorch, Git, OOP, JSON, React, Express.js, MongoDB, Node.js, Matplotlib, Pandas, Numpy, Scikit-learn, PyTorch
